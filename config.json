@@ -1,0 +1,22 @@
+{
+  "bots": {
+    "0": {
+      "username": "",
+      "password": "",
+      "identitySecret": "",
+      "sharedSecret": ""
+    }
+  
+  },
+    "adminID": "",
+    "appid": "730",
+    "ContextID":"2",
+    "keyprice":"105",
+    "groupid": "103582791438079445",
+    "commentAfterTrade":"+1 rep trade with me ",
+    "welcomemsg":"Hi there Thanks for adding me, if you want more info type !help",
+    "groupid":"103582791438079445",
+    "acceptRandomFriendRequests": false,
+    "priceRefreshInterval": 3600,
+    "confirmationInterval": 5000
+}

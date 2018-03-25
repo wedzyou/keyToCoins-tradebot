@@ -1,0 +1,22 @@
+{
+  "name": "tradebot",
+  "version": "1.0.0",
+  "description": "steambot wich interract with user for tradding",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas cogez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "node-datetime": "^2.0.3",
+    "request": "^2.83.0",
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^3.24.0",
+    "steamcommunity": "^3.34.0"
+  }
+}
